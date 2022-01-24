@@ -2,8 +2,9 @@
 Mini medieval-style tower defense game 
 
 Installation instructions: 
-1. Download and open Build folder 
-2. Run Medieval Defense
+1. Download and extract zip file
+2. Open Build folder 
+3. Run Medieval Defense
 
 You start with 200 Gold. Place the ballistas strategically to keep the 
 enemy castle's troops from reaching your castle. Enemies entering your castle
