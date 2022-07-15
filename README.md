@@ -2,7 +2,7 @@
 Mini medieval-style tower defense game 
 
 Installation instructions: 
-1. Download and extract zip file
+1. Download and extract zip by clicking green "Code" button and selecting "Downbload zip"  
 2. Open Build folder 
 3. Run Medieval Defense
 
